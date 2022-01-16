@@ -28,11 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://github.com/JimCarey08/Four_card_section_FrontEndMentor)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
